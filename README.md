@@ -10,7 +10,8 @@ Ce projet est un système de blog complet. Il contient une  **Interface Console 
 ---
 
 ## 💻 Interface d'Administration (Console UI)
-Le projet inclut un menu interactif situé dans `Developpemlent_blog3.UI.ConsoleMenu`. Cet outil permet de gérer la base de données sans passer par un navigateur.
+Le projet inclut un menu interactif situé dans `Developpemlent_blog3.UI.ConsoleMenu`. Cet outil permet de gérer des données chargées en memoire 
+sans passer par une base de donnée.
 
 ### Fonctionnalités de la Console :
 1.  **Lister les articles** : Affiche les IDs et titres de tous les articles.
