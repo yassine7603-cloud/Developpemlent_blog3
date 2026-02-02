@@ -2,10 +2,10 @@
 
 ![.NET Version](https://img.shields.io/badge/.NET-9.0-blueviolet)
 ![Interface](https://img.shields.io/badge/UI-Console%20Menu-green)
-![Database](https://img.shields.io/badge/Database-MySQL-blue)
+
 
 ## 📖 Présentation
-Ce projet est un système de blog complet. Il contient une **API REST** pour les services web et une **Interface Console (CLI)** pour l'administration rapide des articles et des commentaires.
+Ce projet est un système de blog complet. Il contient une  **Interface Console (CLI)** pour l'administration rapide des articles et des commentaires.
 
 ---
 
